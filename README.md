@@ -23,3 +23,4 @@ Dev Quests are one-on-one challenges that simulate typical problems you face whe
 - Alexandre Cardoso
 - [Gabriela Sillis](https://github.com/gsillis)
 - Felipe Carvalho
+- Felipe Forcinetti
