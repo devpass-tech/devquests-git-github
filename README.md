@@ -28,3 +28,4 @@ Dev Quests are one-on-one challenges that simulate typical problems you face whe
 - [Bruno Alves](https://github.com/Brun41v35)
 - [Thyago Raphael](https://github.com/thyagoraphael)
 - Gustavo Soares
+- Paulo Rafael 
