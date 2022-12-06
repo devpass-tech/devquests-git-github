@@ -30,3 +30,4 @@ Dev Quests are one-on-one challenges that simulate typical problems you face whe
 - Gustavo Soares
 - [Kleiton Mendes](https://github.com/kleitonm)
 - [Anita Spieker](https://github.com/anitaspieker)
+- [Frédéric Helfer](https://github.com/frehelfer)
